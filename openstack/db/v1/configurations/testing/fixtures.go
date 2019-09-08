@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/db/v1/configurations"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/configurations"
 )
 
 var (

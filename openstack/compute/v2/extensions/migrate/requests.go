@@ -1,7 +1,7 @@
 package migrate
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 )
 
 // Migrate will initiate a migration of the instance to another host.

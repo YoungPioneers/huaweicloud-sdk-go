@@ -5,10 +5,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/floatingips"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/floatingips"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
 )
 
 func TestFloatingIPsList(t *testing.T) {

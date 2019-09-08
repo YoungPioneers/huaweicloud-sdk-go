@@ -1,6 +1,6 @@
 package job
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 type jobResult struct {
 	gophercloud.Result

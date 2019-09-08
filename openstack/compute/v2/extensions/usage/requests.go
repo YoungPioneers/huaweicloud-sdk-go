@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 // SingleTenant returns usage data about a single tenant.

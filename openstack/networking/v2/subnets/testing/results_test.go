@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/subnets"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/subnets"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 func TestHostRoute(t *testing.T) {

@@ -1,9 +1,9 @@
 package extensions
 
 import (
-	"github.com/gophercloud/gophercloud"
-	common "github.com/gophercloud/gophercloud/openstack/common/extensions"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	common "github.com/huaweicloud/huaweicloud-sdk-go/openstack/common/extensions"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 // ExtensionPage is a single page of Extension results.

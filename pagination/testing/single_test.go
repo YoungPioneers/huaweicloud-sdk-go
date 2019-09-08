@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/pagination"
-	"github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 // SinglePage sample and test cases.

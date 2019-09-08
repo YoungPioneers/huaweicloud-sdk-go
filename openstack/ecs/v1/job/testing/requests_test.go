@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"testing"
 
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/openstack/ecs/v1/job"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1/job"
 )
 
 func TestGetJobResult(t *testing.T) {

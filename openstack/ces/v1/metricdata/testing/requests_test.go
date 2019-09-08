@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"testing"
 
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/openstack/ces/v1/metricdata"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ces/v1/metricdata"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestBatchQuery(t *testing.T) {

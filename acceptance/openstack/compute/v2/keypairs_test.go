@@ -5,10 +5,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/keypairs"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/keypairs"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
 )
 
 const keyName = "gophercloud_test_key_pair"

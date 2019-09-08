@@ -5,10 +5,10 @@ package v3
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/blockstorage/v3/volumetypes"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v3/volumetypes"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 func TestVolumeTypesList(t *testing.T) {

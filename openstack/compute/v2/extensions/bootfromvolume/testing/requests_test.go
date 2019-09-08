@@ -3,9 +3,9 @@ package testing
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 func TestBootFromNewVolume(t *testing.T) {

@@ -5,9 +5,9 @@ package v3
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/identity/v3/domains"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/domains"
 )
 
 func TestDomainsList(t *testing.T) {

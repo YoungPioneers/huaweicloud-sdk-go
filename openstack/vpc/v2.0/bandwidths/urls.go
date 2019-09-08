@@ -1,6 +1,6 @@
 package bandwidths
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 func PostURL(c *gophercloud.ServiceClient) string {
 	return c.ServiceURL("bandwidths")

@@ -5,11 +5,11 @@ package v1
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/orchestration/v1/stackevents"
-	"github.com/gophercloud/gophercloud/openstack/orchestration/v1/stacks"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/orchestration/v1/stackevents"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/orchestration/v1/stacks"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 func TestStackEvents(t *testing.T) {

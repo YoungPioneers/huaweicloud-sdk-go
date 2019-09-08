@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 // Domain represents a domain used by users to access their website.

@@ -1,6 +1,6 @@
 package nics
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 type Job struct {
 	//jobId

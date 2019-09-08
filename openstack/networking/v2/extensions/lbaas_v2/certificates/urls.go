@@ -1,6 +1,6 @@
 package certificates
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 const (
 	rootPath     = "lbaas"

@@ -3,10 +3,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/dns/v2/recordsets"
-	"github.com/gophercloud/gophercloud/openstack/dns/v2/zones"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/dns/v2/recordsets"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/dns/v2/zones"
 )
 
 // CreateRecordSet will create a RecordSet with a random name. An error will

@@ -1,8 +1,8 @@
 package apiversions
 
 import (
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 // ListVersions lists all the Neutron API versions available to end-users.

@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/aksk"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud/openstack/ces/v1/metrics"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ces/v1/metrics"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 func main() {

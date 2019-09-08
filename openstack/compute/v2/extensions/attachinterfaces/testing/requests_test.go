@@ -3,10 +3,10 @@ package testing
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/attachinterfaces"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/attachinterfaces"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestListInterface(t *testing.T) {

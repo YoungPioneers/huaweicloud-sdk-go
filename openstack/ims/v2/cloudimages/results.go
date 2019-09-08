@@ -1,8 +1,8 @@
 package cloudimages
 
 import (
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 // Image represents an image found in the OpenStack Image service.

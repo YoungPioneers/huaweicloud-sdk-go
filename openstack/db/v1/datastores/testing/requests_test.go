@@ -3,11 +3,11 @@ package testing
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/db/v1/datastores"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
-	"github.com/gophercloud/gophercloud/testhelper/fixture"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/datastores"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/fixture"
 )
 
 func TestList(t *testing.T) {

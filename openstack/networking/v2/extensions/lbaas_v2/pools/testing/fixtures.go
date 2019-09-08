@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/lbaas_v2/pools"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/pools"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 // PoolsListBody contains the canned body of a pool list response.

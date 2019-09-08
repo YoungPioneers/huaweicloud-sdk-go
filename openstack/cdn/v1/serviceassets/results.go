@@ -1,6 +1,6 @@
 package serviceassets
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 // DeleteResult represents the result of a Delete operation.
 type DeleteResult struct {

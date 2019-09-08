@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/hypervisors"
-	"github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/hypervisors"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 // The first hypervisor represents what the specification says (~Newton)

@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud/functiontest/common"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack"
-	az "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/availabilityzones"
+	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	az "github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/availabilityzones"
 )
 
 func main() {

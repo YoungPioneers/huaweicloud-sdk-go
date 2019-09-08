@@ -1,6 +1,6 @@
 package secgroups
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 const (
 	secgrouppath = "os-security-groups"

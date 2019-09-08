@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/openstack/sharedfilesystems/v2/shares"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/shares"
 )
 
 // CreateShare will create a share with a name, and a size of 1Gb. An

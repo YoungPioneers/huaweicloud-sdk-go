@@ -5,11 +5,11 @@ package layer3
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	networking "github.com/gophercloud/gophercloud/acceptance/openstack/networking/v2"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/layer3/floatingips"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/networks"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	networking "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/networking/v2"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/layer3/floatingips"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/networks"
 )
 
 func TestLayer3FloatingIPsList(t *testing.T) {

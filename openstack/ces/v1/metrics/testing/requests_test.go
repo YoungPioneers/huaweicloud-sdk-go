@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/ces/v1/metrics"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ces/v1/metrics"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestList(t *testing.T) {

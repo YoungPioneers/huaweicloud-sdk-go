@@ -3,8 +3,8 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/openstack/sharedfilesystems/v2/sharetypes"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/sharetypes"
 )
 
 func TestShareTypeCreateDestroy(t *testing.T) {

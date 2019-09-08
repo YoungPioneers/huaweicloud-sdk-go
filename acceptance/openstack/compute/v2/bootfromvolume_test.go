@@ -5,10 +5,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	blockstorage "github.com/gophercloud/gophercloud/acceptance/openstack/blockstorage/v2"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	blockstorage "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/blockstorage/v2"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
 )
 
 func TestBootFromImage(t *testing.T) {

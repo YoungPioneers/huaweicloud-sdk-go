@@ -3,9 +3,9 @@ package testing
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/orchestration/v1/buildinfo"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/orchestration/v1/buildinfo"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestGetTemplate(t *testing.T) {

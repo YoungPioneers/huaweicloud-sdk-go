@@ -1,7 +1,7 @@
 package notifications
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 )
 
 func Delete(client *gophercloud.ServiceClient, scalingGroupId string, topicUrn string) (r DeleteResult) {

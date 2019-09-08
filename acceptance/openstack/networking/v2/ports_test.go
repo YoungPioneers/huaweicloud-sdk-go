@@ -5,10 +5,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	extensions "github.com/gophercloud/gophercloud/acceptance/openstack/networking/v2/extensions"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/ports"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	extensions "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/networking/v2/extensions"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
 )
 
 func TestPortsList(t *testing.T) {

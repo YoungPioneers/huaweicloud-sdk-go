@@ -2,10 +2,10 @@ package testing
 
 import (
 	"testing"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/openstack/vpc/v2.0/publicips"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/vpc/v2.0/publicips"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func ServiceClient() *gophercloud.ServiceClient {

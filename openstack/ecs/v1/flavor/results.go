@@ -1,8 +1,8 @@
 package flavor
 
 import (
-	"github.com/gophercloud/gophercloud/pagination"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 )
 
 type Flavor struct {

@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud/openstack/objectstorage/v1/objects"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/objectstorage/v1/objects"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 var (

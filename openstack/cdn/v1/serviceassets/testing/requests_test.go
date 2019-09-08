@@ -3,9 +3,9 @@ package testing
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/cdn/v1/serviceassets"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/cdn/v1/serviceassets"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestDelete(t *testing.T) {

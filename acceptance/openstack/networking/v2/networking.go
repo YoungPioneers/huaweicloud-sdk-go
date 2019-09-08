@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/networks"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/ports"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/subnets"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/networks"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/subnets"
 )
 
 // CreateNetwork will create basic network. An error will be returned if the

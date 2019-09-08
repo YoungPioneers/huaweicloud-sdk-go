@@ -1,6 +1,6 @@
 package attachinterfaces
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 func listInterfaceURL(client *gophercloud.ServiceClient, serverID string) string {
 	return client.ServiceURL("servers", serverID, "os-interface")

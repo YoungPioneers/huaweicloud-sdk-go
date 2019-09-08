@@ -1,6 +1,6 @@
 package accounts
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 // GetOptsBuilder allows extensions to add additional headers to the Get
 // request.

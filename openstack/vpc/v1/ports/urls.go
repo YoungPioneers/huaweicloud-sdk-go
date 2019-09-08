@@ -1,7 +1,7 @@
 package ports
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 	"net/url"
 )
 

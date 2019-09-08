@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fakeclient "github.com/gophercloud/gophercloud/testhelper/client"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fakeclient "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 // HandleCreateImageMemberSuccessfully setup

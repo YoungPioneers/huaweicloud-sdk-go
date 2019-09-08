@@ -1,6 +1,6 @@
 package defsecrules
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 const rulepath = "os-security-group-default-rules"
 

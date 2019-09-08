@@ -1,6 +1,6 @@
 package availabilityzones
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 func listURL(c *gophercloud.ServiceClient) string {
 	return c.ServiceURL("os-availability-zone")

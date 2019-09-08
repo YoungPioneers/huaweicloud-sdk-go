@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/vpc/v1/subnets"
-	"github.com/gophercloud/gophercloud/testhelper/client"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/vpc/v1/subnets"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 

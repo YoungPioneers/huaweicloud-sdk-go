@@ -4,9 +4,9 @@ import (
 	"testing"
 	"fmt"
 	"net/http"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fakeclient "github.com/gophercloud/gophercloud/testhelper/client"
-	"github.com/gophercloud/gophercloud/openstack/ims/v2/cloudimages"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fakeclient "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ims/v2/cloudimages"
 )
 
 var GetJobReuslt = `

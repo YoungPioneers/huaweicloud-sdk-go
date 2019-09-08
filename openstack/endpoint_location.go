@@ -3,11 +3,11 @@ package openstack
 import (
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/auth/aksk"
-	tokenAuth "github.com/gophercloud/gophercloud/auth/token"
-	tokens2 "github.com/gophercloud/gophercloud/openstack/identity/v2/tokens"
-	tokens3 "github.com/gophercloud/gophercloud/openstack/identity/v3/tokens"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
+	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
+	tokens2 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tokens"
+	tokens3 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/tokens"
 
 	"errors"
 	"strings"

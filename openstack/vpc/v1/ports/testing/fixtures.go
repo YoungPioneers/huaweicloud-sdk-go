@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/openstack/vpc/v1/ports"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/vpc/v1/ports"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 
 	"net/http"
 
-	th "github.com/gophercloud/gophercloud/testhelper"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 var CreateOutput = `

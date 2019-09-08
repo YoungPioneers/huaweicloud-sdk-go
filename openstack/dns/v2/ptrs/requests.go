@@ -1,8 +1,8 @@
 package ptrs
 
 import (
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 func Get(client *gophercloud.ServiceClient, region string, floatingIPId string) (r GetResult) {

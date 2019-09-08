@@ -1,7 +1,7 @@
 package instances
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 )
 
 func ActionURL(c *gophercloud.ServiceClient, scalingGroupId string) string {

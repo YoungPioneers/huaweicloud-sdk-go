@@ -3,12 +3,12 @@ package testing
 import (
 	"testing"
 
-	db "github.com/gophercloud/gophercloud/openstack/db/v1/databases"
-	"github.com/gophercloud/gophercloud/openstack/db/v1/instances"
-	"github.com/gophercloud/gophercloud/openstack/db/v1/users"
-	"github.com/gophercloud/gophercloud/pagination"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	db "github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/databases"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/instances"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/users"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestCreate(t *testing.T) {

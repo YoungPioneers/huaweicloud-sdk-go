@@ -3,7 +3,7 @@ package cloudservers
 import (
 	"strings"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 	"fmt"
 )
 

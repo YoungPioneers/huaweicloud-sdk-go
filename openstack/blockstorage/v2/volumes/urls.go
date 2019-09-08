@@ -3,7 +3,7 @@ package volumes
 import (
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 )
 
 // `createURL` is a pure function. `createURL(c)` is a URL for which a POST

@@ -90,8 +90,8 @@ Alternatively, add the following to your `.bashrc`:
 ```bash
 gophercloudtest() {
   if [[ -n $1 ]] && [[ -n $2 ]]; then
-    pushd  $GOPATH/src/github.com/gophercloud/gophercloud
-    go test -v -tags "fixtures acceptance" -run "$1" github.com/gophercloud/gophercloud/acceptance/openstack/$2 | tee ~/gophercloud.log
+    pushd  $GOPATH/src/github.com/huaweicloud/huaweicloud-sdk-go
+    go test -v -tags "fixtures acceptance" -run "$1" github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/$2 | tee ~/gophercloud.log
     popd
 fi
 }

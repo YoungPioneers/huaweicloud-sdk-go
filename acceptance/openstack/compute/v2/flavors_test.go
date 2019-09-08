@@ -5,11 +5,11 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/flavors"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/flavors"
 
-	identity "github.com/gophercloud/gophercloud/acceptance/openstack/identity/v3"
+	identity "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/identity/v3"
 )
 
 func TestFlavorsList(t *testing.T) {

@@ -6,17 +6,17 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/attachinterfaces"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/availabilityzones"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/extendedstatus"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/lockunlock"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/pauseunpause"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/suspendresume"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/attachinterfaces"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/availabilityzones"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/extendedstatus"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/lockunlock"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/pauseunpause"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/suspendresume"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 func TestServersList(t *testing.T) {

@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 var template = fmt.Sprintf(`

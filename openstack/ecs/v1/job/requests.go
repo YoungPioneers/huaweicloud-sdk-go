@@ -1,6 +1,6 @@
 package job
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 // Querying the task status based on its job ID.
 func GetJobResult(client *gophercloud.ServiceClient, id string) (JobResult, error) {

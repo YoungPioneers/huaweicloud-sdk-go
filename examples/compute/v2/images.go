@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 	"fmt"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/images"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/images"
 	"encoding/json"
 )
 

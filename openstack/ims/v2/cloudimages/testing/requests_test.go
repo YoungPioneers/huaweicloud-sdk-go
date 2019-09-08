@@ -2,10 +2,10 @@ package testing
 
 import (
 	"testing"
-	"github.com/gophercloud/gophercloud/openstack/ims/v2/cloudimages"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/pagination"
-	fakeclient "github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ims/v2/cloudimages"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	fakeclient "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestListImage(t *testing.T) {

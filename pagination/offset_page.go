@@ -3,7 +3,7 @@ package pagination
 import (
 	"fmt"
 	"reflect"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 	"strconv"
 )
 

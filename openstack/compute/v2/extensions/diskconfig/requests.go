@@ -3,8 +3,8 @@ package diskconfig
 import (
 	"fmt"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
 )
 
 // DiskConfig represents one of the two possible settings for the DiskConfig

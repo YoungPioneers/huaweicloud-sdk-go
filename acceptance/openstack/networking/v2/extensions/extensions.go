@@ -3,13 +3,13 @@ package extensions
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/external"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/security/groups"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/security/rules"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/networks"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/ports"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/external"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/groups"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/rules"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/networks"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
 )
 
 // CreateExternalNetwork will create an external network. An error will be

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"net/http"
 	"testing"
-	tokenAuth "github.com/gophercloud/gophercloud/auth/token"
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 )
 
 const ID = "0123456789"

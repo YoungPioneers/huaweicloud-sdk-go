@@ -1,6 +1,6 @@
 package networks
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 const resourcePath = "os-networks"
 

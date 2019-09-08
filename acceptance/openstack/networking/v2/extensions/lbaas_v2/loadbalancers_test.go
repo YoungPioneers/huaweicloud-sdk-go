@@ -5,13 +5,13 @@ package lbaas_v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	networking "github.com/gophercloud/gophercloud/acceptance/openstack/networking/v2"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/lbaas_v2/listeners"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/lbaas_v2/loadbalancers"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/lbaas_v2/monitors"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/lbaas_v2/pools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
+	networking "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/networking/v2"
+	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/listeners"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/loadbalancers"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/monitors"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/pools"
 )
 
 func TestLoadbalancersList(t *testing.T) {

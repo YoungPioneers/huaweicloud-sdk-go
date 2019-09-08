@@ -3,9 +3,9 @@ package defsecrules
 import (
 	"encoding/json"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/secgroups"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/secgroups"
+	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
 )
 
 // DefaultRule represents a rule belonging to the "default" security group.

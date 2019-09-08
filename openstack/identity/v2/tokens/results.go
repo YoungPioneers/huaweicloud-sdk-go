@@ -3,8 +3,8 @@ package tokens
 import (
 	"time"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/identity/v2/tenants"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tenants"
 )
 
 // Token provides only the most basic information related to an authentication

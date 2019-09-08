@@ -2,9 +2,9 @@ package testing
 
 import (
 	"testing"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
 	"net/http"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
 	"fmt"
 )
 

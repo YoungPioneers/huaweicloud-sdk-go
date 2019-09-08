@@ -2,14 +2,14 @@ package main
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud/functiontest/common"
+	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/lbaas_v2/pools"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/networks"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/ports"
-	//"github.com/gophercloud/gophercloud/openstack/networking/v2/nat"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/pools"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/networks"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
+	//"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/nat"
 )
 
 func main() {

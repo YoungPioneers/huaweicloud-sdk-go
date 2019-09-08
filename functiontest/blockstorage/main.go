@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/gophercloud/gophercloud/functiontest/common"
+	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack"
-	v1 "github.com/gophercloud/gophercloud/openstack/blockstorage/v1/volumes"
-	"github.com/gophercloud/gophercloud/openstack/blockstorage/v2/volumes"
-	v3 "github.com/gophercloud/gophercloud/openstack/blockstorage/v3/volumes"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	v1 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v1/volumes"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
+	v3 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v3/volumes"
 	"encoding/json"
 )
 

@@ -1,6 +1,6 @@
 package cloudservers
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/huaweicloud/huaweicloud-sdk-go"
 
 func resetPwdURL(sc *gophercloud.ServiceClient, serverID string) string {
 	return sc.ServiceURL("servers", serverID, "os-reset-password")

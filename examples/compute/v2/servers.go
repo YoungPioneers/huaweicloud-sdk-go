@@ -1,16 +1,16 @@
 package main
 
 import (
-	"github.com/gophercloud/gophercloud/openstack"
-	"github.com/gophercloud/gophercloud"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	"github.com/huaweicloud/huaweicloud-sdk-go"
 	"fmt"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/servers"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/keypairs"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/keypairs"
 	"encoding/json"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/startstop"
-	"github.com/gophercloud/gophercloud/auth/aksk"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/bootfromvolume"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/attachinterfaces"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/startstop"
+	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
+	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/attachinterfaces"
 )
 
 func main() {
