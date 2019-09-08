@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/gophercloud/gophercloud/auth/aksk"
+	"./auth/aksk"
 )
 
 // DefaultUserAgent is the default User-Agent string set in the request header.
@@ -379,7 +379,7 @@ func buildReq(client *ProviderClient, method, url string, options *RequestOpts) 
 func doReauthAndReq(client *ProviderClient, prereqtok, method, url string, options *RequestOpts) (*http.Response, error) {
 	err := client.Reauthenticate(prereqtok)
 	if err != nil {
-		message:=fmt.Sprintf(CE_ReauthFuncErrorMessage, err.Error())
+		message := fmt.Sprintf(CE_ReauthFuncErrorMessage, err.Error())
 		return nil, NewSystemCommonError(CE_ReauthFuncErrorCode, message)
 	}
 	if options.RawBody != nil {
