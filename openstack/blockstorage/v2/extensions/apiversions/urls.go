@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // getURL generates URL fot getting detail of specified version

@@ -1,7 +1,7 @@
 package limits
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // Limits is a struct that contains the response of a limit query.

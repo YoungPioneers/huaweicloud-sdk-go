@@ -1,7 +1,7 @@
 package quotasets
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // GetLimits returns limits public data about a previously created QuotaSet.

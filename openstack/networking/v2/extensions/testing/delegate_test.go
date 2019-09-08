@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"testing"
 
-	common "github.com/huaweicloud/huaweicloud-sdk-go/openstack/common/extensions"
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/common"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	common "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/common/extensions"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestList(t *testing.T) {

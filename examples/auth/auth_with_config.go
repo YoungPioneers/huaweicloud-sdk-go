@@ -3,11 +3,11 @@ package examples
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/aksk"
 	"net/http"
 	"crypto/tls"
 )

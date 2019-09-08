@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/aksk"
 )
 
 // DefaultUserAgent is the default User-Agent string set in the request header.

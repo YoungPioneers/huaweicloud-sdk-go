@@ -3,9 +3,9 @@ package testing
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/noauth"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/noauth"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestNoAuth(t *testing.T) {

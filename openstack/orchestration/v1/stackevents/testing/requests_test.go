@@ -3,10 +3,10 @@ package testing
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/orchestration/v1/stackevents"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/orchestration/v1/stackevents"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestFindEvents(t *testing.T) {

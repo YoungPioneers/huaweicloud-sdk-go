@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/functiontest/common"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	v1 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v1/volumes"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
-	v3 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v3/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	v1 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v1/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
+	v3 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v3/volumes"
 	"encoding/json"
 )
 

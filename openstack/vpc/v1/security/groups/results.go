@@ -1,7 +1,7 @@
 package groups
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // SecGroup represents a container for security group rules.

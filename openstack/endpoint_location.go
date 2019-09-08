@@ -3,11 +3,11 @@ package openstack
 import (
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
-	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	tokens2 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tokens"
-	tokens3 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/tokens"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/aksk"
+	tokenAuth "github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	tokens2 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v2/tokens"
+	tokens3 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/tokens"
 
 	"errors"
 	"strings"

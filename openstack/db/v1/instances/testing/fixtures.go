@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/datastores"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/instances"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/fixture"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/datastores"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/instances"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/fixture"
 )
 
 var (

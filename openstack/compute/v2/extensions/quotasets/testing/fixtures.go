@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/quotasets"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/quotasets"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 // GetOutput is a sample response to a Get call.

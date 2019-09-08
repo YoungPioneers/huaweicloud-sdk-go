@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/extensions/schedulerstats"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/extensions/schedulerstats"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 const StoragePoolsListBody = `

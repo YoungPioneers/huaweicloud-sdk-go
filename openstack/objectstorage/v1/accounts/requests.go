@@ -1,6 +1,6 @@
 package accounts
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // GetOptsBuilder allows extensions to add additional headers to the Get
 // request.

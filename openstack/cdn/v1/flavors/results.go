@@ -1,8 +1,8 @@
 package flavors
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // Provider represents a provider for a particular flavor.

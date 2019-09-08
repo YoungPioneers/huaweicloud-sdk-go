@@ -3,7 +3,7 @@ package pagination
 import (
 	"fmt"
 	"reflect"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // NumberPage is a stricter Page interface that describes additional functionality required for use with NewNumberPage.

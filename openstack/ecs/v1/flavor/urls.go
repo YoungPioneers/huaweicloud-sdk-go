@@ -1,6 +1,6 @@
 package flavor
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // GET list url
 func getListUrl(sc *gophercloud.ServiceClient) string {

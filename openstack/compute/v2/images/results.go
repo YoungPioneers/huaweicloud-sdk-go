@@ -1,8 +1,8 @@
 package images
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // GetResult is the response from a Get operation. Call its Extract method to

@@ -3,7 +3,7 @@ package images
 import (
 	"net/url"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // `listURL` is a pure function. `listURL(c)` is a URL for which a GET

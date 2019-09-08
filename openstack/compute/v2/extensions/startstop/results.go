@@ -1,6 +1,6 @@
 package startstop
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // StartResult is the response from a Start operation. Call its ExtractErr
 // method to determine if the request succeeded or failed.

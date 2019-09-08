@@ -1,8 +1,8 @@
 package availabilityzones
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // List will return the existing availability zones.

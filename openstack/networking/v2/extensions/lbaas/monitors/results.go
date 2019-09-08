@@ -1,8 +1,8 @@
 package monitors
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // Monitor represents a load balancer health monitor. A health monitor is used

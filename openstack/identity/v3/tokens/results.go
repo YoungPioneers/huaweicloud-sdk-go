@@ -3,7 +3,7 @@ package tokens
 import (
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // Endpoint represents a single API endpoint offered by a service.

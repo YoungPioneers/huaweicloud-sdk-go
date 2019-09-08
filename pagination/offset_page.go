@@ -3,7 +3,7 @@ package pagination
 import (
 	"fmt"
 	"reflect"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 	"strconv"
 )
 

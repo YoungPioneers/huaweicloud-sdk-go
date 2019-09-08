@@ -3,10 +3,10 @@ package testing
 import (
 	"testing"
 
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/common"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/policies"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/policies"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestListPolicy(t *testing.T) {

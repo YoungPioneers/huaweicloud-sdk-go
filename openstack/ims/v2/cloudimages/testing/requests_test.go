@@ -2,10 +2,10 @@ package testing
 
 import (
 	"testing"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ims/v2/cloudimages"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	fakeclient "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ims/v2/cloudimages"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	fakeclient "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestListImage(t *testing.T) {

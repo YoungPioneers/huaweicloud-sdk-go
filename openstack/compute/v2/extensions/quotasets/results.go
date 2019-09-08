@@ -1,8 +1,8 @@
 package quotasets
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // QuotaSet is a set of operational limits that allow for control of compute

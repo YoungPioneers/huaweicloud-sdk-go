@@ -3,9 +3,9 @@ package v2
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/sharetypes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/sharetypes"
 )
 
 // CreateShareType will create a share type with a random name. An

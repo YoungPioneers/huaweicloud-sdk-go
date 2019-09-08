@@ -2,12 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/functiontest/common"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudservers"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudserversext"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudservers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudserversext"
 	"strings"
 	"time"
 	"encoding/json"

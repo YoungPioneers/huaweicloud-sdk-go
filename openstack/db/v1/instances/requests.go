@@ -3,10 +3,10 @@ package instances
 import (
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	db "github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/databases"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/users"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	db "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/databases"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/users"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // CreateOptsBuilder is the top-level interface for create options.

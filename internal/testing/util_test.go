@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/internal"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/internal"
 )
 
 func TestRemainingKeys(t *testing.T) {

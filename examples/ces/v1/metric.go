@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ces/v1/metrics"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/aksk"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ces/v1/metrics"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 func main() {

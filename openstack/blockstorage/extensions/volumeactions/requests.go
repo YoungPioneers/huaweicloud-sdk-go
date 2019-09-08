@@ -1,7 +1,7 @@
 package volumeactions
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // AttachOptsBuilder allows extensions to add additional parameters to the

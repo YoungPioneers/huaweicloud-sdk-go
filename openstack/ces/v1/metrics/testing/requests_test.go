@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ces/v1/metrics"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ces/v1/metrics"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestList(t *testing.T) {

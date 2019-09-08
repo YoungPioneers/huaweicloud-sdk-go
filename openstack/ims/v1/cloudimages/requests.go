@@ -1,7 +1,7 @@
 package cloudimages
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // ListImageTagsOpts is the options for list image tags operation

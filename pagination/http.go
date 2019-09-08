@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // PageResult stores the HTTP response that returned the current page of results.

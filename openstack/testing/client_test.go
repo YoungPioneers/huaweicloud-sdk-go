@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"net/http"
 	"testing"
-	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	tokenAuth "github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 const ID = "0123456789"

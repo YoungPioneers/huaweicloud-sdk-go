@@ -3,10 +3,10 @@ package bootwithscheduler
 import (
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	volume "github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
-	hints "github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/schedulerhints"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	volume "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
+	hints "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/schedulerhints"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/servers"
 )
 
 // CreateOptsExt is a structure that extends the server `CreateOpts` structure

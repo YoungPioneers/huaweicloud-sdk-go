@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/vpc/v1/ports"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/vpc/v1/ports"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 
 	"net/http"
 
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 var CreateOutput = `

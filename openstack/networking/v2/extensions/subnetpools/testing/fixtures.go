@@ -1,7 +1,7 @@
 package testing
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/subnetpools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/subnetpools"
 )
 
 const SubnetPoolsListResult = `

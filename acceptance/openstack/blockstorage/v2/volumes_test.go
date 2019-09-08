@@ -5,10 +5,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/extensions/volumeactions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/extensions/volumeactions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
 )
 
 func TestVolumesList(t *testing.T) {

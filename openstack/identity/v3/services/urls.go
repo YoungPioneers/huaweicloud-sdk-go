@@ -1,6 +1,6 @@
 package services
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 func listURL(client *gophercloud.ServiceClient) string {
 	return client.ServiceURL("services")

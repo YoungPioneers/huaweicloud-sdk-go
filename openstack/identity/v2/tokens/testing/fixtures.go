@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tenants"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tokens"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	thclient "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v2/tenants"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v2/tokens"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	thclient "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 // ExpectedToken is the token that should be parsed from TokenCreationResponse.

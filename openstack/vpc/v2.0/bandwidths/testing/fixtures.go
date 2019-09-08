@@ -2,9 +2,9 @@ package testing
 
 import (
 	"testing"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 	"net/http"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 	"fmt"
 )
 

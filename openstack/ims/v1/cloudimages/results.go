@@ -1,6 +1,6 @@
 package cloudimages
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // ImageTagsResult represents the result of image tags query
 type ImageTagsResult struct {

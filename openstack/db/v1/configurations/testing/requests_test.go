@@ -3,12 +3,12 @@ package testing
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/configurations"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/instances"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/fixture"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/configurations"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/instances"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/fixture"
 )
 
 var (

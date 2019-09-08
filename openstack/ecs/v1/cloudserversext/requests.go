@@ -1,11 +1,11 @@
 package cloudserversext
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1/cloudservers"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/bss/v1/resource"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v1/cloudservers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/bss/v1/resource"
 )
 
 const ECSCLOUDSERVICETYPECODE = "hws.service.type.ec2"

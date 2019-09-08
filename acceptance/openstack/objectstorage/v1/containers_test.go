@@ -6,11 +6,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/objectstorage/v1/containers"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/objectstorage/v1/containers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 // numContainers is the number of containers to create for testing.

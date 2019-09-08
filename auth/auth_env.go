@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/aksk"
 )
 
 var nilTokenOptions = token.TokenOptions{}

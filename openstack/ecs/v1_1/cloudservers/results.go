@@ -1,7 +1,7 @@
 package cloudservers
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 //执行创建image异步接口时返回的jobid结构

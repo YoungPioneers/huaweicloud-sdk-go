@@ -3,9 +3,9 @@ package v2
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/securityservices"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/securityservices"
 )
 
 // CreateSecurityService will create a security service with a random name. An

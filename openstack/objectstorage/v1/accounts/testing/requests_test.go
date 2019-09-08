@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/objectstorage/v1/accounts"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/objectstorage/v1/accounts"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 var (

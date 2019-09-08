@@ -1,6 +1,6 @@
 package base
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // Get retrieves the home document, allowing the user to discover the
 // entire API.

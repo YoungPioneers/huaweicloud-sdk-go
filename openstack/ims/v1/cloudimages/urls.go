@@ -1,6 +1,6 @@
 package cloudimages
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // getImageTagsURL generate a url for getting tags of an image
 func getImageTagsURL(c *gophercloud.ServiceClient) string {

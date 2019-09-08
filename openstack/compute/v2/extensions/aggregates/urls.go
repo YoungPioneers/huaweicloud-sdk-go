@@ -1,6 +1,6 @@
 package aggregates
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 func aggregatesListURL(c *gophercloud.ServiceClient) string {
 	return c.ServiceURL("os-aggregates")

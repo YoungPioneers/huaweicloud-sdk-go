@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/members"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/monitors"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/pools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/vips"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/members"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/monitors"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/pools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/vips"
 )
 
 // CreateMember will create a load balancer member in a specified pool on a

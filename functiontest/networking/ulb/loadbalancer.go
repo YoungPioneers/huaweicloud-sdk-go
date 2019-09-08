@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/functiontest/common"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/loadbalancers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/loadbalancers"
 
 	"encoding/json"
 )

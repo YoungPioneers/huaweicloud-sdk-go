@@ -6,12 +6,12 @@ package extensions
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/extensions/volumeactions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/images"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/extensions/volumeactions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/images"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/servers"
 )
 
 // CreateUploadImage will upload volume it as volume-baked image. An name of new image or err will be

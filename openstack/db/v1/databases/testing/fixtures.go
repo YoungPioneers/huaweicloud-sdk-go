@@ -3,7 +3,7 @@ package testing
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/fixture"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/fixture"
 )
 
 var (

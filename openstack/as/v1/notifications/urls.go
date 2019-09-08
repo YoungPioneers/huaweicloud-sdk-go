@@ -1,7 +1,7 @@
 package notifications
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 func DeleteURL(c *gophercloud.ServiceClient, scalingGroupId string, topicUrn string) string {

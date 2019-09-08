@@ -7,11 +7,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/objectstorage/v1/containers"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/objectstorage/v1/objects"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/objectstorage/v1/containers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/objectstorage/v1/objects"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 // numObjects is the number of objects to create for testing.

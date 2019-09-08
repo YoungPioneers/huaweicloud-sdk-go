@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/extensions/services"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/extensions/services"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 // ServiceListBody is sample response to the List call

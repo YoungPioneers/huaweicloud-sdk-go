@@ -3,9 +3,9 @@ package testing
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/objectstorage/v1/swauth"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/objectstorage/v1/swauth"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestAuth(t *testing.T) {

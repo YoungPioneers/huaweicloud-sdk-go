@@ -3,15 +3,15 @@ package v3
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/domains"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/groups"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/projects"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/regions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/roles"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/services"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/users"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/domains"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/groups"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/projects"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/regions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/roles"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/services"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/users"
 )
 
 // CreateProject will create a project with a random name.

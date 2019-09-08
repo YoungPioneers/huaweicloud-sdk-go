@@ -5,11 +5,11 @@ package fwaas
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	layer3 "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/networking/v2/extensions/layer3"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/firewalls"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/routerinsertion"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	layer3 "github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/openstack/networking/v2/extensions/layer3"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/firewalls"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/routerinsertion"
 )
 
 func TestFirewallList(t *testing.T) {

@@ -1,7 +1,7 @@
 package resetstate
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // ResetResult is the response of a ResetState operation. Call its ExtractErr

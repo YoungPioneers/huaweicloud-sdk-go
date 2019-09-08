@@ -8,17 +8,17 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth"
-	akskAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
-	tokenAuth "github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	tokens2 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tokens"
-	tokens3 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/tokens"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/utils"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth"
+	akskAuth "github.com/YoungPioneers/huaweicloud-sdk-go/auth/aksk"
+	tokenAuth "github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	tokens2 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v2/tokens"
+	tokens3 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/tokens"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/utils"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/endpoints"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/services"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/endpoints"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/services"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 const (

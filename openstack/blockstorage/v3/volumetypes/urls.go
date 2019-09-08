@@ -1,6 +1,6 @@
 package volumetypes
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 func listURL(c *gophercloud.ServiceClient) string {
 	return c.ServiceURL("types")

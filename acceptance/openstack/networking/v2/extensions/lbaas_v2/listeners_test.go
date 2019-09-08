@@ -5,9 +5,9 @@ package lbaas_v2
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/listeners"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/listeners"
 )
 
 func TestListenersList(t *testing.T) {

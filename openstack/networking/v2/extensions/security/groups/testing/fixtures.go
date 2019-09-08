@@ -1,8 +1,8 @@
 package testing
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/groups"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/rules"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/groups"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/rules"
 )
 
 const SecurityGroupListResponse = `

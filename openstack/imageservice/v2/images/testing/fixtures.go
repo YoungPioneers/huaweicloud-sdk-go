@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	fakeclient "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	fakeclient "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 type imageEntry struct {

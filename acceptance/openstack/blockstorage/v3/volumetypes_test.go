@@ -5,10 +5,10 @@ package v3
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v3/volumetypes"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v3/volumetypes"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestVolumeTypesList(t *testing.T) {

@@ -6,9 +6,9 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/imageservice/v2/imagedata"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	fakeclient "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/imageservice/v2/imagedata"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	fakeclient "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestUpload(t *testing.T) {

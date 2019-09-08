@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/databases"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/instances"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/users"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/databases"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/instances"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/users"
 )
 
 // CreateDatabase will create a database with a randomly generated name.

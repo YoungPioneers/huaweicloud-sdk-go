@@ -1,6 +1,6 @@
 package keypairs
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 const resourcePath = "os-keypairs"
 

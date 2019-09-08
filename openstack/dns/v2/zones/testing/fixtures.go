@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/dns/v2/zones"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/dns/v2/zones"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 // List Output is a sample response to a List call.
@@ -310,9 +310,9 @@ import (
 	"fmt"
 	"net/http"
 	"testing"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/dns/v2/zones"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/dns/v2/zones"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 // List Output is a sample response to a List call.

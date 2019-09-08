@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestEnvironmentValidation(t *testing.T) {

@@ -4,11 +4,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/extensions/volumetenants"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/extensions/volumetenants"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestListWithExtensions(t *testing.T) {

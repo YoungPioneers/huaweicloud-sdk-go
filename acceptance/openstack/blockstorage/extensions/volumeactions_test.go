@@ -5,12 +5,12 @@ package extensions
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v2/volumes"
 
-	blockstorage "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/blockstorage/v2"
-	compute "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/compute/v2"
+	blockstorage "github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/openstack/blockstorage/v2"
+	compute "github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/openstack/compute/v2"
 )
 
 func TestVolumeActionsUploadImageDestroy(t *testing.T) {

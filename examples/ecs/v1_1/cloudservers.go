@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudservers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudservers"
 	"time"
 	"encoding/json"
 	"strings"

@@ -3,7 +3,7 @@ package cloudservers
 import (
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 	"fmt"
 )
 

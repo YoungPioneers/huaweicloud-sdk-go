@@ -3,8 +3,8 @@ package v2
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/shares"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/sharedfilesystems/v2/shares"
 )
 
 func TestShareCreate(t *testing.T) {

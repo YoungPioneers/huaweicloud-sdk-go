@@ -1,7 +1,7 @@
 package migrate
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // MigrateResult is the response from a Migrate operation. Call its ExtractErr

@@ -5,10 +5,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	extensions "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/networking/v2/extensions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	extensions "github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/openstack/networking/v2/extensions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/ports"
 )
 
 func TestPortsList(t *testing.T) {

@@ -5,8 +5,8 @@ package v1
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/orchestration/v1/buildinfo"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/orchestration/v1/buildinfo"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestBuildInfo(t *testing.T) {

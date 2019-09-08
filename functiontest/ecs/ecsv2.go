@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	cloudserversV2 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v2/cloudservers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/functiontest/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	cloudserversV2 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v2/cloudservers"
 
 )
 

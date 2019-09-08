@@ -1,7 +1,7 @@
 package resetstate
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // ServerState refers to the states usable in ResetState Action

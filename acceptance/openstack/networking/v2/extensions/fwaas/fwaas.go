@@ -5,12 +5,12 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/firewalls"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/policies"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/routerinsertion"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/rules"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/firewalls"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/policies"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/routerinsertion"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/rules"
 )
 
 // CreateFirewall will create a Firewaill with a random name and a specified

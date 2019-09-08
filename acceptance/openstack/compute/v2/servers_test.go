@@ -6,17 +6,17 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/attachinterfaces"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/availabilityzones"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/extendedstatus"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/lockunlock"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/pauseunpause"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/suspendresume"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/attachinterfaces"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/availabilityzones"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/extendedstatus"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/lockunlock"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/pauseunpause"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/suspendresume"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestServersList(t *testing.T) {

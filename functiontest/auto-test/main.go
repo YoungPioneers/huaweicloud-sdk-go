@@ -3,16 +3,16 @@ package main
 import (
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/aksk"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootwithscheduler"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/schedulerhints"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/serversext"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/imageservice/v2/images"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/aksk"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootfromvolume"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootwithscheduler"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/schedulerhints"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/serversext"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/imageservice/v2/images"
 )
 
 func main() {

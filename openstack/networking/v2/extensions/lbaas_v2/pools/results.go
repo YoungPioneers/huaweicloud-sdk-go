@@ -1,9 +1,9 @@
 package pools
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	//"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/monitors"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	//"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/monitors"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // SessionPersistence represents the session persistence feature of the load

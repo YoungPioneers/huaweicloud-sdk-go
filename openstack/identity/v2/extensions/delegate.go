@@ -1,9 +1,9 @@
 package extensions
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	common "github.com/huaweicloud/huaweicloud-sdk-go/openstack/common/extensions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	common "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/common/extensions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // ExtensionPage is a single page of Extension results.

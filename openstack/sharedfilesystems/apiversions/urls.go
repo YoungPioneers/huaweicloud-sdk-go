@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 func getURL(c *gophercloud.ServiceClient, version string) string {

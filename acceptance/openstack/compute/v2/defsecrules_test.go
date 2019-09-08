@@ -5,9 +5,9 @@ package v2
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	dsr "github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/defsecrules"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	dsr "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/defsecrules"
 )
 
 func TestDefSecRulesList(t *testing.T) {

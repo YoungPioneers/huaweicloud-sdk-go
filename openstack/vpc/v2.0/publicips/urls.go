@@ -1,6 +1,6 @@
 package publicips
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 func CreateURL(c *gophercloud.ServiceClient)string{
 	return c.ServiceURL("publicips")

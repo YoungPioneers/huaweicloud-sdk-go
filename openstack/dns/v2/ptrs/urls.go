@@ -1,7 +1,7 @@
 package ptrs
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 func GetURL(c *gophercloud.ServiceClient, region string, floatingipId string) string {

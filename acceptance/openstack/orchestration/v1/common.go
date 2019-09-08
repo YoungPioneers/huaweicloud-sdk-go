@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 var template = fmt.Sprintf(`

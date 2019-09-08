@@ -3,10 +3,10 @@ package portsbinding
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/portsbinding"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/portsbinding"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/ports"
 )
 
 // PortWithBindingExt represents a port with the binding fields

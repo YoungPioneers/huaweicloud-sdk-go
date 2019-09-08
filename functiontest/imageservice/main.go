@@ -6,12 +6,12 @@ import (
 	"io/ioutil"
 	"bytes"
 	"encoding/json"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/imageservice/v2/images"
-	//"github.com/huaweicloud/huaweicloud-sdk-go/openstack/imageservice/v2/members"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/imageservice/v2/imagedata"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/functiontest/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/imageservice/v2/images"
+	//"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/imageservice/v2/members"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/imageservice/v2/imagedata"
 )
 
 var imageid string

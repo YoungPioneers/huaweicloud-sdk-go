@@ -6,8 +6,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/servers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/servers"
 )
 
 // SchedulerHints represents a set of scheduling hints that are passed to the

@@ -1,7 +1,7 @@
 package resource
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 type ListOptsBuilder interface {

@@ -1,7 +1,7 @@
 package migrate
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // Migrate will initiate a migration of the instance to another host.

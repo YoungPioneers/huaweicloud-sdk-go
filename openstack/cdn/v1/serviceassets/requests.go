@@ -3,7 +3,7 @@ package serviceassets
 import (
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // DeleteOptsBuilder allows extensions to add additional parameters to the Delete

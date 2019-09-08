@@ -1,6 +1,6 @@
 package availabilityzones
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // listURL generates URL for list avaliabilityzones
 func listURL(c *gophercloud.ServiceClient) string {

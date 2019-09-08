@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/objectstorage/v1/swauth"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/objectstorage/v1/swauth"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 // AuthResult is the expected result of AuthOutput

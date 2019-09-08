@@ -1,7 +1,7 @@
 package apiversions
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // APIVersion represents an API version for Neutron. It contains the status of

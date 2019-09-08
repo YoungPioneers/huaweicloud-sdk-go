@@ -7,12 +7,12 @@ import (
 	"os"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/quotasets"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tenants"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/quotasets"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v2/tenants"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestQuotasetGet(t *testing.T) {

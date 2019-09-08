@@ -4,10 +4,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/extensions/trusts"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/tokens"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/extensions/trusts"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/tokens"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestCreateUserIDPasswordTrustID(t *testing.T) {

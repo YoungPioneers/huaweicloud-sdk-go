@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/common"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/firewalls"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/routerinsertion"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/firewalls"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/fwaas/routerinsertion"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestCreate(t *testing.T) {

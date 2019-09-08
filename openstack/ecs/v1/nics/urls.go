@@ -1,6 +1,6 @@
 package nics
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 //add nics url
 func addUrl(sc *gophercloud.ServiceClient, seviceId string) string {

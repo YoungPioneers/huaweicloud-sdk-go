@@ -5,11 +5,11 @@ package v1
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/orchestration/v1/stackresources"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/orchestration/v1/stacks"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/orchestration/v1/stackresources"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/orchestration/v1/stacks"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestStackResources(t *testing.T) {

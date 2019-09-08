@@ -1,6 +1,6 @@
 package availabilityzones
 
-import "github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+import "github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 
 // ZoneState represents the current state of the availability zone.
 type ZoneState struct {

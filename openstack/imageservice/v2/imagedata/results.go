@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // UploadResult is the result of an upload image operation. Call its ExtractErr

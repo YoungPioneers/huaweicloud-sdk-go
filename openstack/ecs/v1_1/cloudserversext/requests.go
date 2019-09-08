@@ -1,11 +1,11 @@
 package cloudserversext
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootwithscheduler"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudservers"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/networks"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/bootwithscheduler"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v1_1/cloudservers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/networks"
 )
 
 func CreateServer(client *gophercloud.ServiceClient, opts cloudservers.CreateOptsBuilder) (jobId, orderId string, err error) {

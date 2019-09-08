@@ -1,7 +1,7 @@
 package buildinfo
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // Revision represents the API/Engine revision of a Heat deployment.

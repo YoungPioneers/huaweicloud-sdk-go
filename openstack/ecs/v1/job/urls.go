@@ -1,6 +1,6 @@
 package job
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // Querying task statuses URL
 func jobURL(sc *gophercloud.ServiceClient, jobId string) string {

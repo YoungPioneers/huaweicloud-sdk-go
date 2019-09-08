@@ -1,7 +1,7 @@
 package lockunlock
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // LockResult and UnlockResult are the responses from a Lock and Unlock

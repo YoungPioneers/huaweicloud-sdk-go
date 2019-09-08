@@ -3,13 +3,13 @@ package extensions
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/external"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/groups"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/rules"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/networks"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/external"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/groups"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/rules"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/networks"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/ports"
 )
 
 // CreateExternalNetwork will create an external network. An error will be

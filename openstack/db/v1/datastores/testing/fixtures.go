@@ -3,8 +3,8 @@ package testing
 import (
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/datastores"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/datastores"
 )
 
 const version1JSON = `

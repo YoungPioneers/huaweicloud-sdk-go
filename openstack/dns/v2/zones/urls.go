@@ -1,7 +1,7 @@
 /*
 package zones
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 func baseURL(c *gophercloud.ServiceClient) string {
 	return c.ServiceURL("zones")
@@ -16,7 +16,7 @@ func zoneURL(c *gophercloud.ServiceClient, zoneID string) string {
 
 package zones
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 func CreateURL(c *gophercloud.ServiceClient) string {
 	return c.ServiceURL("zones")

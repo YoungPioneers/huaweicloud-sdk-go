@@ -6,11 +6,11 @@ package v1
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v1/snapshots"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v1/volumes"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/blockstorage/v1/volumetypes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v1/snapshots"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v1/volumes"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/blockstorage/v1/volumetypes"
 )
 
 // CreateSnapshot will create a volume snapshot based off of a given volume and

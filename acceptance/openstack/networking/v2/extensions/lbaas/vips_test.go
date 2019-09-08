@@ -5,10 +5,10 @@ package lbaas
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/clients"
-	networking "github.com/huaweicloud/huaweicloud-sdk-go/acceptance/openstack/networking/v2"
-	"github.com/huaweicloud/huaweicloud-sdk-go/acceptance/tools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/vips"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/clients"
+	networking "github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/openstack/networking/v2"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/acceptance/tools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas/vips"
 )
 
 func TestVIPsList(t *testing.T) {

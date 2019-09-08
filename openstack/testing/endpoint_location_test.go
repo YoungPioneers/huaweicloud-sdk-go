@@ -4,11 +4,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	tokens2 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v2/tokens"
-	tokens3 "github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/tokens"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	tokens2 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v2/tokens"
+	tokens3 "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/tokens"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 // Service catalog fixtures take too much vertical space!

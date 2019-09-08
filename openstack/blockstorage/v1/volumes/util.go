@@ -1,7 +1,7 @@
 package volumes
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // WaitForStatus will continually poll the resource, checking for a particular

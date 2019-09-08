@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // Upload uploads an image file.

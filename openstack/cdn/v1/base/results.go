@@ -1,6 +1,6 @@
 package base
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // HomeDocument is a resource that contains all the resources for the CDN API.
 type HomeDocument map[string]interface{}

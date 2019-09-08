@@ -1,6 +1,6 @@
 package imagedata
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // `imageDataURL(c,i)` is the URL for the binary image data for the
 // image identified by ID `i` in the service `c`.

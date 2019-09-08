@@ -5,11 +5,11 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/flavors"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/images"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/flavors"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/images"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // ListOptsBuilder allows extensions to add additional parameters to the

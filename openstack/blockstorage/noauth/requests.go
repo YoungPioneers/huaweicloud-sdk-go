@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
 )
 
 // EndpointOpts specifies a "noauth" Cinder Endpoint.

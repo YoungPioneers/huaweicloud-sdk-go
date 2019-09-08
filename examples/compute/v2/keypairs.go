@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/keypairs"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/keypairs"
 	"encoding/json"
 	"crypto/rsa"
 	"crypto/rand"

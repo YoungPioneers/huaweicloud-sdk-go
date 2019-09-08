@@ -1,9 +1,9 @@
 package groups
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/rules"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/security/rules"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // SecGroup represents a container for security group rules.

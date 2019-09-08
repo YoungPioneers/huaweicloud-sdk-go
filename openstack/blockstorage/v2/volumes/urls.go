@@ -3,7 +3,7 @@ package volumes
 import (
 	"fmt"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // `createURL` is a pure function. `createURL(c)` is a URL for which a POST

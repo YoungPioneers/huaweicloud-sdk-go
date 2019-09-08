@@ -1,7 +1,7 @@
 package cloudserversext
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1/cloudservers"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v1/cloudservers"
 )
 
 //在server结构上加上了相关bss（Charging）信息及相关volume（VolumeAttached）信息

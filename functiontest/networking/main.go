@@ -2,14 +2,14 @@ package main
 
 import (
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go/functiontest/common"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/functiontest/common"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/pools"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/networks"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/ports"
-	//"github.com/huaweicloud/huaweicloud-sdk-go/openstack/networking/v2/nat"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/extensions/lbaas_v2/pools"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/networks"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/ports"
+	//"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/networking/v2/nat"
 )
 
 func main() {

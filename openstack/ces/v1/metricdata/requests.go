@@ -1,7 +1,7 @@
 package metricdata
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // BatchQueryOptsBuilder allows extensions to add additional parameters to the

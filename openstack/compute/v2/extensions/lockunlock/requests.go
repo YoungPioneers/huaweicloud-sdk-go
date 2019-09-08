@@ -1,6 +1,6 @@
 package lockunlock
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 func actionURL(client *gophercloud.ServiceClient, id string) string {
 	return client.ServiceURL("servers", id, "action")

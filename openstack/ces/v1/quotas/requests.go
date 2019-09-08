@@ -1,7 +1,7 @@
 package quotas
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 func Get(client *gophercloud.ServiceClient) (r GetResult) {

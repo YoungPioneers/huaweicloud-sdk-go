@@ -1,7 +1,7 @@
 package evacuate
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // EvacuateResult is the response from an Evacuate operation.

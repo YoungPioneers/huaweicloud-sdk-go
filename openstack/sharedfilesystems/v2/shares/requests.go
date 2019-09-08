@@ -1,6 +1,6 @@
 package shares
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // CreateOptsBuilder allows extensions to add additional parameters to the
 // Create request.

@@ -1,9 +1,9 @@
 package users
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	db "github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/databases"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	db "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/databases"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // User represents a database user

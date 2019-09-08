@@ -3,11 +3,11 @@ package testing
 import (
 	"testing"
 
-	common "github.com/huaweicloud/huaweicloud-sdk-go/openstack/common/extensions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	common "github.com/YoungPioneers/huaweicloud-sdk-go/openstack/common/extensions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestList(t *testing.T) {

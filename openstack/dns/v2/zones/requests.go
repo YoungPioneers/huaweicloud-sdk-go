@@ -3,8 +3,8 @@
 package zones
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // ListOptsBuilder allows extensions to add parameters to the List request.
@@ -181,8 +181,8 @@ func Delete(client *gophercloud.ServiceClient, zoneID string) (r DeleteResult) {
 package zones
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 type ListOptsBuilder interface {

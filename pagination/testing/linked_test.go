@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 // LinkedPager sample and test cases.

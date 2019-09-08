@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 var singleResponse = `

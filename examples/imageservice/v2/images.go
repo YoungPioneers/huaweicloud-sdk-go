@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 	"os"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/imageservice/v2/imagedata"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/imageservice/v2/images"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/imageservice/v2/imagedata"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/imageservice/v2/images"
 )
 
 func main() {

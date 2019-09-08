@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // Template is a structure that represents OpenStack Heat templates

@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/datastores"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/db/v1/users"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/datastores"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/db/v1/users"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
 )
 
 // Volume represents information about an attached volume for a database instance.

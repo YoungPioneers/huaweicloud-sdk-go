@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/fixture"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/fixture"
 )
 
 const user1 = `

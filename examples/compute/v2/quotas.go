@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/compute/v2/extensions/quotasets"
-	"github.com/huaweicloud/huaweicloud-sdk-go/auth/token"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/compute/v2/extensions/quotasets"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/auth/token"
 )
 
 func main() {

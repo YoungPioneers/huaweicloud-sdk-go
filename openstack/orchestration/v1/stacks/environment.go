@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 // Environment is a structure that represents stack environments

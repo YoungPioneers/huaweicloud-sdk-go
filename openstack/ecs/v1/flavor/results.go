@@ -1,8 +1,8 @@
 package flavor
 
 import (
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	"github.com/huaweicloud/huaweicloud-sdk-go"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	"github.com/YoungPioneers/huaweicloud-sdk-go"
 )
 
 type Flavor struct {

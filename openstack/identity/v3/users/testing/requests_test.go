@@ -3,12 +3,12 @@ package testing
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/groups"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/projects"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/identity/v3/users"
-	"github.com/huaweicloud/huaweicloud-sdk-go/pagination"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/groups"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/projects"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/identity/v3/users"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/pagination"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
 )
 
 func TestListUsers(t *testing.T) {

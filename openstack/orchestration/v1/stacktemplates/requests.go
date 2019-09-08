@@ -1,6 +1,6 @@
 package stacktemplates
 
-import "github.com/huaweicloud/huaweicloud-sdk-go"
+import "github.com/YoungPioneers/huaweicloud-sdk-go"
 
 // Get retreives data for the given stack template.
 func Get(c *gophercloud.ServiceClient, stackName, stackID string) (r GetResult) {

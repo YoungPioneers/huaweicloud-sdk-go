@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"testing"
 
-	fake "github.com/huaweicloud/huaweicloud-sdk-go/testhelper/client"
-	th "github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
-	"github.com/huaweicloud/huaweicloud-sdk-go/openstack/ecs/v1/nics"
+	fake "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper/client"
+	th "github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/openstack/ecs/v1/nics"
 )
 
 func TestAddNics(t *testing.T) {

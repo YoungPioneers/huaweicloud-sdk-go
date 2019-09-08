@@ -3,7 +3,7 @@ package testing
 import (
 	"testing"
 
-	"github.com/huaweicloud/huaweicloud-sdk-go/testhelper"
+	"github.com/YoungPioneers/huaweicloud-sdk-go/testhelper"
 )
 
 func TestExtractToken(t *testing.T) {
